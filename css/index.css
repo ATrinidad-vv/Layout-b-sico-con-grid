@@ -5,7 +5,7 @@
 }
 
 header, footer {
-    background-color: #028db8;
+    background-color: #fbff005b;
     color: white;
     padding: 20px;
     text-align: center;
@@ -19,24 +19,24 @@ header, footer {
 }
 
 aside {
-    background-color: gray;
+    background-color: rgb(235, 234, 234);
     height: 400px;
 }
 
 article {
-    background-color: blue;
+    background-color: rgb(213, 214, 169);
     height: 400px;
 }
 
 section {
-    background-color: aqua;
+    background-color: rgb(255, 245, 159);
     margin: 10px;
     height: 185px;
 }
 
 .rojo {
-    background-color: rgba(139, 0, 0, 0.7);
+    background-color: rgb(255, 215, 104);
     padding: 15px;
-    height: 235px;
-    margin: 5px;
+    height: 230px;
+    margin: 10px;
 }
